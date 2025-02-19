@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<item>
+<update>
     <version>5.0.0.0</version>
     <url>https://drive.google.com/uc?export=download&id=192kxjY_r1Q-fJy8-md_uNg4VzkpAuERO</url>
     <changelog>Update UI and fix bug</changelog>
     <mandatory>false</mandatory>
-</item>
+</update>
