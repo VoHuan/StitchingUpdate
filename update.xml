@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>3.0.0.0</version>
-    <url>https://github.com/VoHuan/StitchingUpdate/releases/download/v3.0.0/ImageStitchingSetup_v2.0.0.msi</url>
+    <url>https://github.com/VoHuan/StitchingUpdate/releases/download/v1.0.1/assets.win.json</url>
     <args>/quiet</args>
     <mandatory>false</mandatory>
 </item>
