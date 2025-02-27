@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>3.0.0.0</version>
-    <url>https://drive.google.com/uc?export=download&amp;id=1eXN-jmhIIihWCdv7QZzmfWt7U53c8Xe3</url>
+    <url>https://github.com/VoHuan/StitchingUpdate/releases/download/v3.0.0/ImageStitchingSetup_v2.0.0.msi</url>
     <args>/quiet</args>
     <mandatory>false</mandatory>
 </item>
